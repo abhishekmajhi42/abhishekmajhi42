@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhishekmajhi42
+- 👋 Hi, I’m ABHISHEK MAJHI
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning about Technologies
+- 🌱 I’m currently learning about Information Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
